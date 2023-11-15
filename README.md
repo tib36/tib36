@@ -2,7 +2,7 @@
 
 这里是nokali，一个普通网安人~
 
-Major In InformationSecurity && CodeAudit Learner
+Major In InformationSecurity && Security Researcher
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tib36&hide=prs,issues,contribs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
